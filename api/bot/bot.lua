@@ -162,7 +162,7 @@ function create_config( )
     "core",
     "plugins"
     },
-    sudo_users = {377450049,00000000},--Sudo users
+    sudo_users = {362270285,424878723},--Sudo users
     admins = {},
     disabled_channels = {},
     moderation = {data = ''..MaTaDoRTeaM..'/data/moderation.json'},
